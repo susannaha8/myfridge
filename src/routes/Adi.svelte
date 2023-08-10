@@ -1,1 +1,5 @@
-<h1>Adi is cool</h1>
+<script lang="ts">
+	export let lastName = "";
+</script>
+
+<h1>Adi {lastName} is cool</h1>
